@@ -13,3 +13,33 @@
  *= require_tree .
  *= require_self
  */
+@import "bootstrap-sprockets";
+
+/***Global***/
+$body-bg: #F6F7F8; /*Body Background*/
+$navbar-default-bg: white; /*Navbar background color*/
+$navbar-default-border: white;
+$navbar-default-link-color: black; /*Navbar font color*/
+
+@import "bootstrap";
+
+.navbar-default {
+	box-shadow: 0 2px 4px rgba(0,0,0,.1);
+	border-radius: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
