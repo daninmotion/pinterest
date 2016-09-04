@@ -16,16 +16,26 @@
 @import "bootstrap-sprockets";
 
 /***Global***/
+@import 'https://fonts.googleapis.com/css?family=Lato:400,700';
+
 $body-bg: #F6F7F8; /*Body Background*/
+$font-family-sans-serif: 'Lato','Helvetica Neue', Helvetica, Arial, sans-serif;
 $navbar-default-bg: white; /*Navbar background color*/
 $navbar-default-border: white;
 $navbar-default-link-color: black; /*Navbar font color*/
+$navbar-default-brand-color: #bd081c;/*Text Logo Color*/
+$jumbotron-bg: white; /*Jumbotron*/
+$btn-primary-bg: #bd081c; /*Primary button color*/
 
 @import "bootstrap";
 
 .navbar-default {
 	box-shadow: 0 2px 4px rgba(0,0,0,.1);
 	border-radius: 0px;
+}
+
+.navbar-brand {
+	font-weight: bold;
 }
 
 
