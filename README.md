@@ -1,19 +1,10 @@
 # A simple Pinterest clone
 
-* Ruby version
+* Ruby 2.2.3
 
-* System dependencies
+*Rails 5.0.0
 
-* Configuration
+*Bootstrap
 
-* Database creation
+*Paperclip
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
