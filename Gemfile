@@ -59,3 +59,7 @@ gem 'devise', '~> 4.2'
 
 gem 'paperclip', '~> 4.2.1'
 gem 'aws-sdk', '< 2.0'
+gem 'masonry-rails', '~> 0.2.4'
+
+#jQuery plugin for drop-in fix binded events problem caused by Turbolinks
+gem 'jquery-turbolinks', '~> 2.1'
