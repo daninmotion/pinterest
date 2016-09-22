@@ -57,5 +57,5 @@ end
 #Devise for our login system
 gem 'devise', '~> 4.2'
 
-gem 'paperclip'
+gem 'paperclip', '~> 4.2.1'
 gem 'aws-sdk', '< 2.0'
