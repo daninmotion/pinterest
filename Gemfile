@@ -66,3 +66,5 @@ gem 'jquery-turbolinks', '~> 2.1'
 
 gem 'will_paginate', '~> 3.1', '>= 3.1.3'
 gem 'will_paginate-bootstrap'
+
+gem "figaro"
