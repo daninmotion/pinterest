@@ -63,3 +63,6 @@ gem 'masonry-rails', '~> 0.2.4'
 
 #jQuery plugin for drop-in fix binded events problem caused by Turbolinks
 gem 'jquery-turbolinks', '~> 2.1'
+
+gem 'will_paginate', '~> 3.1', '>= 3.1.3'
+gem 'will_paginate-bootstrap'
