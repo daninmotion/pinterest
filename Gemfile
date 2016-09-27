@@ -52,6 +52,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
 group :production do
 	gem 'pg', '~> 0.18.4'
+  gem 'rails_12factor', '~> 0.0.3'
 end
 
 #Devise for our login system
