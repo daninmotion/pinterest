@@ -10,3 +10,5 @@
 
 *Masonry
 
+*Page pagination
+
