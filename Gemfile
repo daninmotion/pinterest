@@ -52,7 +52,6 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
 group :production do
 	gem 'pg', '~> 0.18.4'
-  gem 'rails_12factor', '~> 0.0.3'
 end
 
 #Devise for our login system
@@ -66,5 +65,6 @@ gem 'masonry-rails', '~> 0.2.4'
 gem 'jquery-turbolinks', '~> 2.1'
 
 gem 'will_paginate', '~> 3.1', '>= 3.1.3'
+gem 'will_paginate-bootstrap'
 
 gem "figaro"
