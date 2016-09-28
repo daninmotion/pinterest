@@ -8,6 +8,8 @@
 
 *Paperclip
 
+*Amazon S3
+
 *Masonry
 
 *Page pagination
